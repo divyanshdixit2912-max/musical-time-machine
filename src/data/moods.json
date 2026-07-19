@@ -1,0 +1,68 @@
+{
+  "moods": [
+    {
+      "id": "happy",
+      "name": "Happy",
+      "emoji": "😊",
+      "description": "Feel good and uplifted",
+      "color": "#FCD34D",
+      "traits": ["uplifting", "cheerful", "positive"]
+    },
+    {
+      "id": "sad",
+      "name": "Sad",
+      "emoji": "😢",
+      "description": "Melancholic and introspective",
+      "color": "#60A5FA",
+      "traits": ["melancholic", "emotional", "reflective"]
+    },
+    {
+      "id": "energetic",
+      "name": "Energetic",
+      "emoji": "⚡",
+      "description": "High energy and motivation",
+      "color": "#F87171",
+      "traits": ["powerful", "intense", "driving"]
+    },
+    {
+      "id": "calm",
+      "name": "Calm",
+      "emoji": "🧘",
+      "description": "Peaceful and relaxing",
+      "color": "#34D399",
+      "traits": ["soothing", "peaceful", "gentle"]
+    },
+    {
+      "id": "romantic",
+      "name": "Romantic",
+      "emoji": "💕",
+      "description": "Love and affection",
+      "color": "#FB7185",
+      "traits": ["tender", "intimate", "passionate"]
+    },
+    {
+      "id": "party",
+      "name": "Party",
+      "emoji": "🎉",
+      "description": "Dance and celebration",
+      "color": "#A78BFA",
+      "traits": ["fun", "festive", "bouncy"]
+    },
+    {
+      "id": "focus",
+      "name": "Focus",
+      "emoji": "🎯",
+      "description": "Concentration and productivity",
+      "color": "#60A5FA",
+      "traits": ["minimal", "steady", "purposeful"]
+    },
+    {
+      "id": "sleep",
+      "name": "Sleep",
+      "emoji": "😴",
+      "description": "Relaxing for sleep",
+      "color": "#818CF8",
+      "traits": ["ambient", "quiet", "dreamy"]
+    }
+  ]
+}

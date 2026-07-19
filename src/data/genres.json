@@ -1,0 +1,64 @@
+{
+  "genres": [
+    {
+      "id": "pop",
+      "name": "Pop",
+      "description": "Contemporary popular music",
+      "color": "#EC4899"
+    },
+    {
+      "id": "rock",
+      "name": "Rock",
+      "description": "Classic and modern rock",
+      "color": "#F97316"
+    },
+    {
+      "id": "hiphop",
+      "name": "Hip Hop",
+      "description": "Rap and hip hop beats",
+      "color": "#8B5CF6"
+    },
+    {
+      "id": "indie",
+      "name": "Indie",
+      "description": "Independent and alternative",
+      "color": "#06B6D4"
+    },
+    {
+      "id": "electronic",
+      "name": "Electronic",
+      "description": "Electronic and dance music",
+      "color": "#10B981"
+    },
+    {
+      "id": "jazz",
+      "name": "Jazz",
+      "description": "Jazz and improvisation",
+      "color": "#F59E0B"
+    },
+    {
+      "id": "blues",
+      "name": "Blues",
+      "description": "Traditional blues",
+      "color": "#3B82F6"
+    },
+    {
+      "id": "classical",
+      "name": "Classical",
+      "description": "Classical and orchestral",
+      "color": "#A78BFA"
+    },
+    {
+      "id": "rnb",
+      "name": "R&B",
+      "description": "Rhythm and blues",
+      "color": "#EF4444"
+    },
+    {
+      "id": "country",
+      "name": "Country",
+      "description": "Country and western",
+      "color": "#D97706"
+    }
+  ]
+}

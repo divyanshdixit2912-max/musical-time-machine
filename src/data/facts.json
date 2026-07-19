@@ -1,0 +1,44 @@
+{
+  "facts": [
+    {
+      "id": "1",
+      "title": "The Beatles Record",
+      "description": "The Beatles have sold over 600 million records worldwide, making them the best-selling music artist of all time."
+    },
+    {
+      "id": "2",
+      "title": "Spotify's First Song",
+      "description": "The first song ever played on Spotify was Radical Face's 'Welcome Home'."
+    },
+    {
+      "id": "3",
+      "title": "Mozart's Genius",
+      "description": "Wolfgang Amadeus Mozart composed over 600 musical pieces during his lifetime, starting at age 5."
+    },
+    {
+      "id": "4",
+      "title": "Grammy Record",
+      "description": "Beyoncé holds the record for the most Grammy Awards won by any artist, with 32 awards."
+    },
+    {
+      "id": "5",
+      "title": "Music Heals",
+      "description": "Studies show that listening to music can reduce anxiety, lower blood pressure, and improve mood."
+    },
+    {
+      "id": "6",
+      "title": "Shortest Song",
+      "description": "The shortest song on Spotify is 'Stay Alive' by Pearl Jam at only 3 seconds long."
+    },
+    {
+      "id": "7",
+      "title": "Vinyl Revival",
+      "description": "Vinyl records are making a comeback, with sales increasing year over year among music fans."
+    },
+    {
+      "id": "8",
+      "title": "Music Memory",
+      "description": "Your brain releases dopamine when you listen to music you love, which is why songs can create strong memories."
+    }
+  ]
+}

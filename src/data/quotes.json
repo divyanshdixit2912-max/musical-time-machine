@@ -1,0 +1,44 @@
+{
+  "quotes": [
+    {
+      "id": "1",
+      "text": "Music is the universal language of mankind.",
+      "author": "Henry Wadsworth Longfellow"
+    },
+    {
+      "id": "2",
+      "text": "Where words fail, music speaks.",
+      "author": "Hans Christian Andersen"
+    },
+    {
+      "id": "3",
+      "text": "Music gives a soul to the universe, wings to the mind, flight to the imagination, and life to everything.",
+      "author": "Plato"
+    },
+    {
+      "id": "4",
+      "text": "Without music, life would be a mistake.",
+      "author": "Friedrich Nietzsche"
+    },
+    {
+      "id": "5",
+      "text": "Music is the shorthand of emotion.",
+      "author": "Leo Tolstoy"
+    },
+    {
+      "id": "6",
+      "text": "I think music in itself is healing.",
+      "author": "Billy Joel"
+    },
+    {
+      "id": "7",
+      "text": "Life is like a piano. What you get out of it depends on how you play it.",
+      "author": "Bill Cosby"
+    },
+    {
+      "id": "8",
+      "text": "If I were not a physicist, I would probably be a musician.",
+      "author": "Albert Einstein"
+    }
+  ]
+}
