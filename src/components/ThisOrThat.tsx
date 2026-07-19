@@ -2,7 +2,7 @@
 
 import React, { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { volume2, Headphones } from 'lucide-react';
+import { Headphones } from 'lucide-react';
 import { Song } from '@/types';
 import SongCard from './SongCard';
 import songsData from '@/data/songs.json';

@@ -2,7 +2,7 @@
 
 import React, { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { Clock, MapPin, Cloud, UCloud } from 'lucide-react';
+import { Clock, MapPin, Cloud, Coffee } from 'lucide-react';
 import songsData from '@/data/songs.json';
 import SongCard from './SongCard';
 import { Song } from '@/types';
@@ -11,7 +11,7 @@ const WEATHER_TYPES = [
   { id: 'rain', name: 'Rain', icon: Cloud, color: 'from-blue-400 to-blue-600' },
   { id: 'sunny', name: 'Sunny', icon: MapPin, color: 'from-yellow-400 to-yellow-600' },
   { id: 'night', name: 'Night', icon: Clock, color: 'from-purple-400 to-purple-600' },
-  { id: 'cafe', name: 'Cafe', icon: UCloud, color: 'from-amber-400 to-amber-600' },
+  { id: 'cafe', name: 'Cafe', icon: Coffee, color: 'from-amber-400 to-amber-600' },
 ];
 
 const WeatherPlaylist: React.FC = () => {

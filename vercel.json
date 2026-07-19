@@ -1,1 +1,34 @@
-{\n  \"buildCommand\": \"npm run build\",\n  \"outputDirectory\": \".next\",\n  \"installCommand\": \"npm install\",\n  \"framework\": \"nextjs\",\n  \"env\": {\n    \"NODE_ENV\": \"production\"\n  },\n  \"headers\": [\n    {\n      \"source\": \"/(.*)\",\n      \"headers\": [\n        {\n          \"key\": \"X-Content-Type-Options\",\n          \"value\": \"nosniff\"\n        },\n        {\n          \"key\": \"X-Frame-Options\",\n          \"value\": \"SAMEORIGIN\"\n        },\n        {\n          \"key\": \"X-XSS-Protection\",\n          \"value\": \"1; mode=block\"\n        }\n      ]\n    }\n  ],\n  \"redirects\": [\n    {\n      \"source\": \"/api/:path*\",\n      \"destination\": \"/api/:path*\"\n    }\n  ]\n}\n
+{
+  "buildCommand": "npm run build",
+  "outputDirectory": ".next",
+  "installCommand": "npm install",
+  "framework": "nextjs",
+  "env": {
+    "NODE_ENV": "production"
+  },
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        {
+          "key": "X-Content-Type-Options",
+          "value": "nosniff"
+        },
+        {
+          "key": "X-Frame-Options",
+          "value": "SAMEORIGIN"
+        },
+        {
+          "key": "X-XSS-Protection",
+          "value": "1; mode=block"
+        }
+      ]
+    }
+  ],
+  "redirects": [
+    {
+      "source": "/api/:path*",
+      "destination": "/api/:path*"
+    }
+  ]
+}
